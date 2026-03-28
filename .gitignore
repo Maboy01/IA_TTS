@@ -9,6 +9,8 @@ config.local.json
 # Generated training artifacts
 checkpoints/
 resultado_*.wav
+!resultado_taller.wav
+!resultado_taller_sin_vocoder.wav
 
 # Local datasets and archives
 data/
