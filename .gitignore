@@ -1,0 +1,21 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local configuration
+config.local.json
+
+# Generated training artifacts
+checkpoints/
+resultado_*.wav
+
+# Local datasets and archives
+data/
+LJSpeech-1.1/
+LJSpeech-1.1.tar.bz2
+*.rar
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
