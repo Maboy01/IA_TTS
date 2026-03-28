@@ -1,5 +1,5 @@
 # IA_TTS
-
+#REVISAR EL ARCHIVO `taller_fundamentos_deeplearning_local_windows.ipynb` AHI ESTA TODO EL CODIGO
 Proyecto para entrenar e inferir un modelo de texto a voz en Windows usando Coqui TTS.
 
 ## Contenido
